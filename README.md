@@ -71,4 +71,4 @@ These learnings not only enhanced my **Power BI expertise**, but also demonstrat
  ┣ 📊 Dashboard.pbix        # Power BI dashboard file
  ┣ 📑 README.md             # Project documentation
  ┣ 📂 Data                  # E-commerce sales dataset (anonymized/cleaned)
- ┗ 📂 Screenshots           # Dashboard screenshots
+ ┗ 📂 dashboard_images           # Dashboard images
