@@ -1,17 +1,17 @@
-# 📊 Advanced Power BI E-commerce_Sales_Analysis
+# 📊 Advanced Power BI E-commerce_Sales_Analysis  
 
-This repository showcases my **Advanced Power BI Sales Dashboard** project, built to solve real-world business challenges through **comprehensive sales analysis and forecasting**. The project demonstrates **end-to-end expertise** in data cleaning, advanced DAX, dashboard design, and predictive analytics, making it a strong highlight for **Business Analyst** and **Data Analyst** roles.  
+This repository showcases my **Advanced Power BI Sales Dashboard** project, built to solve real-world business challenges through **comprehensive sales analysis and forecasting**. The project demonstrates **end-to-end expertise** in data cleaning, advanced DAX, dashboard design, **time series analysis**, and predictive analytics, making it a strong highlight for **Business Analyst** and **Data Analyst** roles focused on **driving business success**.  
 
 ---
 
 ## 🚀 Project Objective  
 
-The primary goal of this project was to **transform raw sales data into meaningful business intelligence** by designing an advanced and interactive Power BI dashboard. It serves as a practical demonstration of my ability to:  
+The primary goal of this project was to **transform raw sales data into meaningful business intelligence** by designing an advanced and **interactive dashboard**. It serves as a practical demonstration of my ability to:  
 
 - Clean and prepare raw data for accuracy and consistency  
 - Apply advanced **DAX queries** for deeper insights  
 - Design a user-friendly, insightful dashboard from scratch  
-- Implement **sales forecasting models** directly in Power BI  
+- Implement **sales forecasting models** directly in Power BI for actionable **insights**  
 
 ---
 
@@ -25,16 +25,16 @@ The primary goal of this project was to **transform raw sales data into meaningf
 ### 2. Advanced DAX Queries  
 - Created **calculated columns and measures** to enable complex analysis  
 - Designed **dynamic KPIs** for sales growth, profit margin, YoY performance, and customer segmentation  
-- Implemented advanced time intelligence functions for trend analysis  
+- Implemented advanced **time series analysis** functions for trend evaluation  
 
 ### 3. Dashboard Design from Scratch  
-- Designed an **interactive and intuitive dashboard** using best practices in visualization  
+- Designed an **interactive dashboard** using best practices in visualization  
 - Integrated **slicer filters, drill-through, and bookmarks** for smooth navigation  
 - Applied clean, professional UI/UX design principles to enhance decision-making  
 
 ### 4. Sales Forecasting in Power BI  
 - Leveraged Power BI’s forecasting features to **predict future sales trends**  
-- Showcased predictive analytics as a business advantage for planning and strategy  
+- Showcased **sales forecasting** as a business advantage for planning and strategy  
 - Highlighted ability to connect **data-driven insights** to actionable business outcomes  
 
 ---
@@ -57,9 +57,10 @@ This project helped me develop strong, **industry-relevant data skills**:
 - **Data Cleaning & Preparation** – Handling real-world messy datasets in Power BI  
 - **Advanced DAX** – Writing optimized queries for deeper insights  
 - **Dashboard Design** – Presenting data with clarity, aesthetics, and usability in mind  
-- **Predictive Analytics** – Integrating forecasting directly into dashboards  
+- **Predictive Analytics & Sales Forecasting** – Integrating forecasting directly into dashboards  
+- **Time Series Analysis** – Understanding sales patterns across time for **driving business success**  
 
-These learnings not only enhanced my **Power BI expertise**, but also demonstrated my ability to **solve real business problems with data**.  
+These learnings not only enhanced my **Power BI expertise**, but also demonstrated my ability to **solve real business problems with data** and deliver **actionable insights**.  
 
 ---
 
@@ -69,5 +70,5 @@ These learnings not only enhanced my **Power BI expertise**, but also demonstrat
 📦 Advanced-Power-BI-Sales-Dashboard
  ┣ 📊 Dashboard.pbix        # Power BI dashboard file
  ┣ 📑 README.md             # Project documentation
- ┣ 📂 Data                  # Sample sales dataset (anonymized/cleaned)
+ ┣ 📂 Data                  # E-commerce sales dataset (anonymized/cleaned)
  ┗ 📂 Screenshots           # Dashboard screenshots
